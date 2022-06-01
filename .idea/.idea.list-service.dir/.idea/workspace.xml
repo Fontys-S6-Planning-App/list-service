@@ -6,17 +6,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec6bd981-07bf-4408-97b7-970e0a8d8067" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.list-service.dir/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/config/applicationhost.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/appsettings.Development.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list-service.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/list-service.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.list-service.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.list-service.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29bdCqDYJPtv1MVzwa7q9wawonn" />
   <component name="ProjectViewState">
@@ -70,6 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1653385594391</updated>
       <workItem from="1653385599104" duration="249000" />
+      <workItem from="1653645345255" duration="2034000" />
     </task>
     <servers />
   </component>
@@ -77,7 +76,7 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

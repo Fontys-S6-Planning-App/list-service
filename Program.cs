@@ -1,4 +1,5 @@
 using list_service.DBContexts;
+using list_service.Messaging;
 using list_service.Repositories;
 using list_service.Repositories.Interfaces;
 using list_service.Services;
@@ -76,3 +77,5 @@ app.MapControllers();
 app.MapControllerRoute(name: "list", pattern: "list/{controller=ToDoList}/{action=Index}/{id?}");
 
 app.Run();
+
+Receive.ReceiveMessage();
